@@ -63,7 +63,7 @@ body { background:#f8f8f8; }
 .a_view .cmt span {}
 
 .c_time:after { content:""; width:1px; height:100%; background:#dadada; margin:0 auto;  }
-.look_more { display:block; width:100px; height:109px; margin:0 auto; background:url(../images/icon_water.png) no-repeat; text-align:center; line-height:109px; font-size:16px; color:#fff; }
+.look_more { display:block; width:100px; height:109px; margin:0 auto 50px; background:url(../images/icon_water.png) no-repeat; text-align:center; line-height:109px; font-size:16px; color:#fff; }
 /* end content */
 
 /* footer */
