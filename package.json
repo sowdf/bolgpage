@@ -1,0 +1,25 @@
+{
+  "name": "bolgpage",
+  "version": "1.0.0",
+  "description": "This is a blog of static page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sowdf/bolgpage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sowdf/bolgpage/issues"
+  },
+  "homepage": "https://github.com/sowdf/bolgpage#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-ruby-sass": "^2.0.6",
+    "gulp-sass": "^2.2.0"
+  }
+}
